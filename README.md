@@ -13,5 +13,5 @@ I really love to play, program and solve problems 💡
 - 🌎 Português Brasileiro, English, Español.
 
 
-[![Linkedin Badge](https://img.shields.io/badge/https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&link=https://www.linkedin.com/in/tassolacerda/)](https://www.linkedin.com/in/tassolacerda/)  [![Instagram Badge](https://img.shields.io/badge//-Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/tassolacerda/)](https://www.instagram.com/tassolacerda/)
+[![Linkedin Badge](https://img.shields.io/badge/https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&link=https://www.linkedin.com/in/tassolacerda/)](https://www.linkedin.com/in/tassolacerda/)  [![Instagram Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.instagram.com/tassolacerda/)](https://www.instagram.com/tassolacerda/)
 
