@@ -1,16 +1,14 @@
-### Hi there 👋
+### Paulo Lacerda
 
-<!--
-**p-lacerda/p-lacerda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Paulo Lacerda 😃🇧🇷
+I'm a  Graphic Designer, Web Developer, that has been studying in Trybe since 2021.
+I really love to play, program and solve problems 💡
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 From Fortaleza, Ceará
+- 💻 Game Developer
+- Português Brasileiro, English, Español.
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tassolacerda/)](https://www.linkedin.com/in/tassolacerda/)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/papodedev/)
