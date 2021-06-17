@@ -1,4 +1,4 @@
-### Paulo Lacerda
+# Paulo Lacerda
 
 My name is Paulo Lacerda 😃🇧🇷
 I'm a  Graphic Designer, Web Developer, that has been studying in Trybe since 2021.
