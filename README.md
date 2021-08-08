@@ -2,7 +2,7 @@
 
 My name is Paulo Lacerda 😃🇧🇷
 
-I'm a  Graphic Designer, Web Developer, that has been studying in Trybe since 2021.
+I'm a  Graphic Designer, Web Developer, that has been studying in Trybe and Unifor-CE since 2021.
 
 I really love to play, program and solve problems 💡
 
