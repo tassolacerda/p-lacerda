@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/p-lacerda/p-lacerda/fb6fbd81e8ade4fad6331157a307c19e550127ed/Mobile.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/p-lacerda/p-lacerda/main/Mobile(2).png"/>
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, my name is Paulo Lacerda</h1>
 
 I'm a  Graphic Designer, Web Developer, that has been studying in Trybe since 2021.
