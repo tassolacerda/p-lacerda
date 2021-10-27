@@ -1,9 +1,9 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/p-lacerda/p-lacerda/main/Mobile(2).png"/>
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Paulo Lacerda</h1>
 
-I'm a  Graphic Designer, Web Developer, that has been studying in Trybe since 2021.
+I'm a  Graphic Designer and Front-end Developer, studying in Trybe since 2021.
 
-I really love to play, program and solve problems 💡
+I really love play games, programming and solve problems 💡
 
 ## 🚀 About me
 
