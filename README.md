@@ -42,8 +42,10 @@ I really love play games, programming and solve problems 💡
 [tech_tools_anchor]: #bonjour--
 
 ## Github Stats
+<div align="left">
 <img width="400em" src="https://github-readme-stats.vercel.app/api?username=p-lacerda&count_private=true&show_icons=true&include_all_commits=true" alt="p-lacerda's stats"/>
 <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-lacerda&hide=TeX&layout=compact" alt="p-lacerda's most languages"/>
+</div>
 
 
 
