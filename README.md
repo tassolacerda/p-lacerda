@@ -40,3 +40,8 @@ I really love play games, programming and solve problems 💡
 [<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />][tech_tools_anchor]
 
 [tech_tools_anchor]: #bonjour--
+
+## Github Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=p-lacerda&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-lacerda&hide=TeX&layout=compact)
+
