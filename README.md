@@ -11,10 +11,10 @@ I really love play games, programming and solve problems 💡
 - 💻 Game Developer
 - 🌎 Português Brasileiro, English, Español.
 
-### Follow me
+## Where to find me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tassolacerda/)](https://www.linkedin.com/in/tassolacerda/)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/tassolacerda/)](https://www.instagram.com/tassolacerda/)
 
-### Learning now :open_book::
+## Learning now :open_book::
 <a name="learning-now"></a>
 
 <a name="learning-now"></a>
