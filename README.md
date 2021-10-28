@@ -7,7 +7,7 @@ I really love play games, programming and solve problems 💡
 
 ## 🚀 About me
 
-- 📍 From Fortaleza, Ceará
+- 📍 From Uruçuí, Piauí
 - 💻 Game Developer
 - 🌎 Português Brasileiro, English, Español.
 
