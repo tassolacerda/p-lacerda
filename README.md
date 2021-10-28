@@ -45,8 +45,8 @@ I really love play games, programming and solve problems 💡
 
 ## Github Stats
 <div align="left">
-<img width="400em" height="160em" src="https://github-readme-stats.vercel.app/api?username=p-lacerda&count_private=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="p-lacerda's stats"/>
-<img width="400em" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-lacerda&hide=TeX&layout=compact&theme=vision-friendly-dark" alt="p-lacerda's most languages"/>
+<img width="400em" height="160em" src="https://github-readme-stats.vercel.app/api?username=p-lacerda&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark" alt="p-lacerda's stats"/>
+<img width="400em" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-lacerda&hide=TeX&layout=compact&theme=github_dark" alt="p-lacerda's most languages"/>
 </div>
 
 
