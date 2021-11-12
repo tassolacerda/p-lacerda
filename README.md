@@ -8,7 +8,7 @@ I really love play games, programming and solve problems 💡
 ## 🚀 About me
 
 - 📍 From Uruçuí, Piauí
-- 💻 Game Developer
+- 💻 Front-End Developer
 - 🌎 Português Brasileiro, English, Español.
 
 ## Where to find me
