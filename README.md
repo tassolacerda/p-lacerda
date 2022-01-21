@@ -10,7 +10,8 @@
   <h3>Where to find me</h3>
 
   <a href="https://www.linkedin.com/in/tassolacerda/">![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-  <a href="https://www.instagram.com/tassolacerda/">![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+  <a href="">![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
+    <a href="">![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a>
 
 </div>
 
