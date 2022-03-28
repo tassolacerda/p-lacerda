@@ -1,5 +1,5 @@
 <div align="center">
-<h3>Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Paulo Lacerda</h3>
+<h3>Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Eu sou Paulo Lacerda</h3>
 
 <h2>I'm a Front-end Developer and UX/UI Designer, studying in Trybe since 2021.</h2>
 
