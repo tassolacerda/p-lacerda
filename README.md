@@ -1,7 +1,7 @@
 <div align="left">
 <h3>Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Tudo bem?</h3>
   
-<h4>Sou um Desenvolvedor Full-Stack e UX/UI Designer.</h4>
+<h4>Atualmente sou um Desenvolvedor Full-Stack e UX/UI Designer.</h4>
 
 <li>💡 Eu amo resolver problemas</li>
 </div>
