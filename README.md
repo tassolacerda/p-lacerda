@@ -6,7 +6,7 @@
 <li>💡 Eu amo resolver problemas</li>
 </div>
 
-<li>💻 Skills: </li>
+<li>💻 Skills Principais: </li>
 
 [![JS/TS](https://img.shields.io/static/v1?label=&message=JS/TS&color=3878C6&logo=javascript&logoColor=FFFFFF)](https://www.typescriptlang.org/)
 [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&logo=HTML5&logoColor=FFFFFF)]()
