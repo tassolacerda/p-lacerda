@@ -3,10 +3,10 @@
   
 <h4>Atualmente sou um Desenvolvedor Full-Stack e UX/UI Designer.</h4>
 
-<li>💡 Eu amo resolver problemas</li>
+- 💡 Eu amo resolver problemas. Dá uma olhada no meu [HackerRank](https://www.hackerrank.com/dashboard)
 </div>
 
-<li>💻 Skills Principais: </li>
+- 💻 Skills Principais:
 
 [![JS/TS](https://img.shields.io/static/v1?label=&message=JS/TS&color=3878C6&logo=javascript&logoColor=FFFFFF)](https://www.typescriptlang.org/)
 [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&logo=HTML5&logoColor=FFFFFF)]()
