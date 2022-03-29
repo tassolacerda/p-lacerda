@@ -1,7 +1,7 @@
 <div align="center">
 <h3>Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Eu sou Paulo Lacerda</h3>
 
-<h2>I'm a Front-end Developer and UX/UI Designer, studying in Trybe since 2021.</h2>
+<h2>Sou um Desenvolvedor Fullstack e UX/UI Designer, estudando na Trybe desde 2021.</h2>
 
 <p>I really love play games, programming and solve problems 💡</p>
 </div>
