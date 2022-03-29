@@ -3,7 +3,7 @@
   
 <h4>Atualmente sou um Desenvolvedor Full-Stack e UX/UI Designer.</h4>
 
-- 💡 Eu amo resolver problemas. Dá uma olhada no meu [HackerRank](https://www.hackerrank.com/dashboard)
+- 💡 Eu amo resolver problemas. Dá uma olhada no meu [HackerRank](https://www.hackerrank.com/paulolacerda)
 </div>
 
 - 💻 Skills Principais:
