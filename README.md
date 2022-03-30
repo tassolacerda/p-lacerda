@@ -15,16 +15,12 @@
 [![React](https://img.shields.io/static/v1?label=&message=React&color=ff751a&logo=React&logoColor=FFFFFF)](https://reactjs.org/) 
 [![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=00000F&logo=MySQL&logoColor=FFFFFF)](https://www.mysql.com/)
 
-  <div align="center">
-  <h3>Onde você pode me encontrar</h3>
+- 🌎 Onde você pode me encontrar:
 
-  <a href="https://www.linkedin.com/in/tassolacerda/">![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-  &nbsp;
-  <a href="">![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
-  &nbsp;
-  <a href="">![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a>
-  </div>
-
+  - [Meu portifólio](https://www.linkedin.com/in/tassolacerda/)
+  - [Linkedin](https://www.linkedin.com/in/tassolacerda/)
+  - [Hashnode](https://www.linkedin.com/in/tassolacerda/)
+  - [StackOverflow](https://www.linkedin.com/in/tassolacerda/)
 
 <div align="center">
   <h3>Github Stats</h3>
