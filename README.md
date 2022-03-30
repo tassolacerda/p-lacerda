@@ -16,6 +16,7 @@
 [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=47d147&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/) 
 [![React](https://img.shields.io/static/v1?label=&message=React&color=ff751a&logo=React&logoColor=FFFFFF)](https://reactjs.org/) 
 [![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=00000F&logo=MySQL&logoColor=FFFFFF)](https://www.mysql.com/)
+[![Figma](https://img.shields.io/static/v1?label=&message=Figma&color=1572B6&logo=Figma&logoColor=FFFFFF)]()
 
 - 🌎 Onde você pode me encontrar:
 
