@@ -1,10 +1,11 @@
-<div align="left">
-<h3>Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Tudo bem?</h3>
+
+### Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Tudo bem?</h3>
   
-<h4>Atualmente sou um Desenvolvedor Full-Stack e UX/UI Designer.</h4>
+- - -
+  
+#### Atualmente sou um **Desenvolvedor Full-Stack** e UX/UI Designer.
 
 - 💡 Eu amo resolver problemas. Dá uma olhada no meu [HackerRank](https://www.hackerrank.com/paulolacerda)
-</div>
 
 - 💻 Skills Principais:
 
@@ -20,7 +21,7 @@
   - [Meu portifólio](https://www.linkedin.com/in/tassolacerda/)
   - [Linkedin](https://www.linkedin.com/in/tassolacerda/)
   - [StackOverflow](https://www.linkedin.com/in/tassolacerda/)
-  - Email: paulooliveiralacerda@gmail.com
+  - **Email**: paulooliveiralacerda@gmail.com
 
 <div align="left">
   <h3>Github Stats</h3>
