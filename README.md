@@ -18,9 +18,9 @@
 
 - 🌎 Onde você pode me encontrar:
 
-  - [Meu portifólio](https://www.linkedin.com/in/tassolacerda/)
+  - [Meu portifólio](https://www.paulodetasso.me)
   - [Linkedin](https://www.linkedin.com/in/tassolacerda/)
-  - [StackOverflow](https://www.linkedin.com/in/tassolacerda/)
+  - [StackOverflow](https://stackoverflow.com/users/16568893/paulo-de-tasso)
   - **Email**: paulooliveiralacerda@gmail.com
 
 <div align="left">
