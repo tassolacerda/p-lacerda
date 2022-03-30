@@ -22,7 +22,7 @@
   - [Meu portifólio](https://www.paulodetasso.me)
   - [Linkedin](https://www.linkedin.com/in/tassolacerda/)
   - [StackOverflow](https://stackoverflow.com/users/16568893/paulo-de-tasso)
-  - **Email**: paulooliveiralacerda@gmail.com
+  - **Email**: `paulooliveiralacerda@gmail.com`
 
 <div align="left">
   <h3>Github Stats</h3>
