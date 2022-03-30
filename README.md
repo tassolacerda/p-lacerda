@@ -19,8 +19,8 @@
 
   - [Meu portifólio](https://www.linkedin.com/in/tassolacerda/)
   - [Linkedin](https://www.linkedin.com/in/tassolacerda/)
-  - [Hashnode](https://www.linkedin.com/in/tassolacerda/)
   - [StackOverflow](https://www.linkedin.com/in/tassolacerda/)
+  - Email: paulooliveiralacerda@gmail.com
 
 <div align="center">
   <h3>Github Stats</h3>
