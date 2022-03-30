@@ -6,6 +6,7 @@
 #### Atualmente sou um **Desenvolvedor Full-Stack** e UX/UI Designer.
 
 - 💡 Eu amo resolver problemas. Dá uma olhada no meu [HackerRank](https://www.hackerrank.com/paulolacerda)
+- ❤️ Projetos open-source em que eu contribuo: [nodebestpractices](https://github.com/p-lacerda/nodebestpractices) | [manual-de-livros-para-devs](https://github.com/Emanuelit/Manual-de-Livros-para-Devs)
 
 - 💻 Skills Principais:
 
