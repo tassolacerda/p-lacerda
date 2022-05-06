@@ -4,21 +4,38 @@
 - - -
   
 #### Atualmente sou um **Desenvolvedor Full-Stack** e UX/UI Designer.
-
-- 💡 Eu amo resolver problemas. Dá uma olhada no meu [HackerRank](https://www.hackerrank.com/paulolacerda)
 - ❤️ Projetos open-source em que eu contribuo: [nodebestpractices](https://github.com/p-lacerda/nodebestpractices) | [manual-de-livros-para-devs](https://github.com/Emanuelit/Manual-de-Livros-para-Devs)
+- 🎧 Eu amo videogames e ouvir música. 
 
-- 💻 Skills Principais:
+### Habilidades adquiridas
+<div style="display: inline_block">
+  <div id="fronticons" style="display: inline_block"><br>
+  <img align="center" alt="tasso-unix" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg">
+  <img align="center" alt="tasso-bash" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+  <img align="center" alt="tasso-git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="tasso-html" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="tasso-css" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="tasso-js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="tasso-eslint" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg">
+  <img align="center" alt="tasso-jest" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+  <img align="center" alt="tasso-react" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="tasso-redux" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+</div>
+<div id="backicons" style="display: inline_block"><br>
+  <img align="center" alt="tasso-docker" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="tasso-mysql" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="tasso-nodejs" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="tasso-express" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+  <img align="center" alt="tasso-sequelize" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
+  <img align="center" alt="tasso-mocha" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg">
+  <img align="center" alt="tasso-heroku" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg">
+  <img align="center" alt="tasso-ts" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="tasso-mongodb" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="tasso-java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</div>
 
-[![JS/TS](https://img.shields.io/static/v1?label=&message=JS/TS&color=3878C6&logo=javascript&logoColor=FFFFFF)](https://www.typescriptlang.org/)
-[![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&logo=HTML5&logoColor=FFFFFF)]()
-[![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=1572B6&logo=CSS3&logoColor=FFFFFF)]()
-[![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=47d147&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/) 
-[![React](https://img.shields.io/static/v1?label=&message=React&color=ff751a&logo=React&logoColor=FFFFFF)](https://reactjs.org/) 
-[![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=00000F&logo=MySQL&logoColor=FFFFFF)](https://www.mysql.com/)
-[![Figma](https://img.shields.io/static/v1?label=&message=Figma&color=1572B6&logo=Figma&logoColor=FFFFFF)]()
-
-- 🌎 Onde você pode me encontrar:
+  
+### 🌎 Onde você pode me encontrar:
   - [Linkedin](https://www.linkedin.com/in/tassolacerda/)
   - [StackOverflow](https://stackoverflow.com/users/16568893/paulo-de-tasso)
   - **Email**: `paulooliveiralacerda@gmail.com`
