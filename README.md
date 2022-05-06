@@ -19,8 +19,6 @@
 [![Figma](https://img.shields.io/static/v1?label=&message=Figma&color=1572B6&logo=Figma&logoColor=FFFFFF)]()
 
 - 🌎 Onde você pode me encontrar:
-
-  - [Meu portifólio](https://www.paulodetasso.me)
   - [Linkedin](https://www.linkedin.com/in/tassolacerda/)
   - [StackOverflow](https://stackoverflow.com/users/16568893/paulo-de-tasso)
   - **Email**: `paulooliveiralacerda@gmail.com`
