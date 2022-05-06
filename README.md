@@ -36,10 +36,13 @@
 
   
 ### 🌎 Onde você pode me encontrar:
-  - [Linkedin](https://www.linkedin.com/in/tassolacerda/)
-  - [StackOverflow](https://stackoverflow.com/users/16568893/paulo-de-tasso)
-  - **Email**: `paulooliveiralacerda@gmail.com`
-
+<div>
+  <a href = "mailto:paulooliveiralacerda@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/tassolacerda/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://stackoverflow.com/users/16568893/paulo-de-tasso" ><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+</div>
+  
+  
 <div align="left">
   <h3>Github Stats</h3>
 <img width="400em" height="160em" src="https://github-readme-stats.vercel.app/api?username=p-lacerda&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark" alt="p-lacerda's stats"/>
