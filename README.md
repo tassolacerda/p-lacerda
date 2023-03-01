@@ -43,6 +43,8 @@
   <a href="https://stackoverflow.com/users/16568893/paulo-de-tasso" ><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 </div>
   
+  <a href="https://app.daily.dev/paulodetasso"><img src="https://api.daily.dev/devcards/db0809a7082d4025b3b71fc415f31409.png?r=02v" width="400" alt="Paulo Lacerda's Dev Card"/></a>
+  
   
 <div align="left">
   <h3>Github Stats</h3>
