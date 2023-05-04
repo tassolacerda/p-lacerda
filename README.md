@@ -4,8 +4,7 @@
 - - -
   
 #### Atualmente sou um **Desenvolvedor Full-Stack** e UX/UI Designer.
-- ❤️ Projetos open-source em que eu contribuo: [nodebestpractices](https://github.com/p-lacerda/nodebestpractices) | [manual-de-livros-para-devs](https://github.com/Emanuelit/Manual-de-Livros-para-Devs)
-- 🎧 Eu amo videogames e ouvir música. 
+- Projetos open-source em que eu contribuo: [nodebestpractices](https://github.com/p-lacerda/nodebestpractices) | [manual-de-livros-para-devs](https://github.com/Emanuelit/Manual-de-Livros-para-Devs)
 
 ### Habilidades adquiridas
 <div style="display: inline_block">
