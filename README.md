@@ -1,55 +1,32 @@
-
-### Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Tudo bem?</h3>
-  
-- - -
-  
-#### Atualmente sou um **Desenvolvedor Full-Stack** e UX/UI Designer.
-- Projetos open-source em que eu contribuo: [nodebestpractices](https://github.com/p-lacerda/nodebestpractices) | [manual-de-livros-para-devs](https://github.com/Emanuelit/Manual-de-Livros-para-Devs)
-
-### Habilidades adquiridas
-<div style="display: inline_block">
-  <div id="fronticons" style="display: inline_block"><br>
-  <img align="center" alt="tasso-unix" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg">
-  <img align="center" alt="tasso-bash" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  <img align="center" alt="tasso-git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="tasso-html" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="tasso-css" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="tasso-js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="tasso-vue" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="tasso-eslint" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg">
-  <img align="center" alt="tasso-jest" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  <img align="center" alt="tasso-react" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="tasso-redux" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
-</div>
-<div id="backicons" style="display: inline_block"><br>
-  <img align="center" alt="tasso-docker" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="tasso-mysql" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="tasso-nodejs" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="tasso-express" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-  <img align="center" alt="tasso-sequelize" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
-  <img align="center" alt="tasso-mocha" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg">
-  <img align="center" alt="tasso-heroku" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg">
-  <img align="center" alt="tasso-ts" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="tasso-mongodb" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="tasso-java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
-
-  
-### 🌎 Onde você pode me encontrar:
-<div>
-  <a href = "mailto:paulooliveiralacerda@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/tassolacerda/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://stackoverflow.com/users/16568893/paulo-de-tasso" ><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-</div>
-  
-  <a href="https://app.daily.dev/paulodetasso"><img src="https://api.daily.dev/devcards/db0809a7082d4025b3b71fc415f31409.png?r=02v" width="400" alt="Paulo Lacerda's Dev Card"/></a>
-  
-  
-<div align="left">
-  <h3>Github Stats</h3>
-<img width="400em" height="160em" src="https://github-readme-stats.vercel.app/api?username=p-lacerda&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark" alt="p-lacerda's stats"/>
-  <img width="400em" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-lacerda&hide=TeX&layout=compact&theme=github_dark" alt="p-lacerda's most languages"/>
-</div>
+<h1 align="center">Hi there, I'm Paulo Lacerda 👋</h1>
 
 
+<p align="center">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/p-lacerda?style=social">
+</p>
 
+<h1>About me 🙋</h1>
+
+- 💼 I'm currently working at <a href="https://www.betrybe.com/">Trybe</a> as a Full Stack Web Developer
+- 🎓 I have a degree in Computer Science and have been working in the field since 2015
+- 💻 I'm proficient in React, Redux, TypeScript, Node, MongoDB, MySQL, Docker, RTL, and Jest
+- 📱 I also have experience with React Native and know Scrum methodology
+- 🎨 I'm familiar with Bootstrap and Styled Components.
+- 🤖 Fun fact: I am studying theater as a hobby.
+
+
+<h2>🤙 More about me</h2>
+
+[![Linkedin](https://img.shields.io/badge/-Paulo_Lacerda-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tassolacerda/)
+[![GitHub](https://img.shields.io/badge/-placerda-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/p-lacerda)
+[![HackerRank](https://img.shields.io/badge/-placerda-success?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/)
+[![Stack Overflow](https://img.shields.io/badge/-placerda-orange?style=flat&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/5323419/)
+
+<h2>GitHub Stats 📈</h2>
+
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=p-lacerda&show_icons=true&theme=dracula">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=p-lacerda&theme=dracula">
+</p>
+
+![](https://komarev.com/ghpvc/?username=p-lacerda&color=blueviolet&label=👀+Profile+views)
