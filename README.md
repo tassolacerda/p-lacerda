@@ -36,15 +36,6 @@ Here are some of the technologies and tools I work with:
 
 I'm always eager to learn and explore new technologies to enhance my development skills and keep up with the latest industry trends.
 
-## Contact 📫
-
-You can reach out to me through the following channels:
-
-- LinkedIn: [Paulo Lacerda](https://www.linkedin.com/in/tassolacerda/)
-- GitHub: [p-lacerda](https://github.com/p-lacerda)
-- HackerRank: [placerda](https://www.hackerrank.com/)
-- Stack Overflow: [placerda](https://stackoverflow.com/users/5323419/)
-
 I'm always open to new opportunities, collaborations, or just to have a chat. Don't hesitate to connect with me!
 
 Let's build something incredible together! 🌟
