@@ -1,26 +1,50 @@
-<h1 align="center">Hi there, I'm Paulo Lacerda 👋</h1>
+<h1 align="center">Hi there, I'm Paulo Lacerda! 👋</h1>
+
 <p align="center">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/p-lacerda?style=social">
-</p>
-<h1>About me 🙋</h1>
-💼 I'm currently working at Findme as a Full Stack Web Developer
-🎓 I have a degree in Computer Science and have been working in the field since 2022
-💻 I'm proficient in React, Redux, TypeScript, Node, MongoDB, MySQL, Docker, RTL, and Jest
-📱 I also have experience with React Native and know Scrum methodology
-🎨 I'm familiar with Bootstrap and Styled Components.
-🤖 Fun fact: I am studying filmmaking as a hobby.
-<h2>🤙 More about me</h2>
-
-[![Linkedin](https://img.shields.io/badge/-Paulo_Lacerda-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tassolacerda/)
-[![GitHub](https://img.shields.io/badge/-placerda-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/p-lacerda)
-[![HackerRank](https://img.shields.io/badge/-placerda-success?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/)
-[![Stack Overflow](https://img.shields.io/badge/-placerda-orange?style=flat&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/5323419/)
-
-
-<h2>GitHub Stats 📈</h2>
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=p-lacerda&show_icons=true&theme=dracula">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=p-lacerda&theme=dracula">
+  <em>:brazil: Full Stack Web Developer</em>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/tassolacerda/"><img src="https://img.shields.io/badge/-Paulo_Lacerda-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin"></a>
+  <a href="https://github.com/p-lacerda"><img src="https://img.shields.io/badge/-placerda-black?style=flat&logo=GitHub&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/-placerda-success?style=flat&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
+  <a href="https://stackoverflow.com/users/5323419/"><img src="https://img.shields.io/badge/-placerda-orange?style=flat&logo=Stack-Overflow&logoColor=white" alt="Stack Overflow"></a>
+</p>
 
+<p align="center">
+  <a href="#about-me">About Me</a> •
+  <a href="#skills">Skills</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#contact">Contact</a>
+</p>
+
+---
+
+## About Me 🙋
+
+I'm Paulo Lacerda, a Full Stack Web Developer based in Brazil, specifically in Bom Jesus. I have a passion for creating innovative and interactive web applications, with a particular interest in game development.
+
+## Skills 💼
+
+Here are some of the technologies and tools I work with:
+
+- **Frontend**: React, Redux, TypeScript
+- **Backend**: Node.js, Express
+- **Databases**: MongoDB, MySQL
+- **Testing**: RTL, Jest
+- **Containerization**: Docker
+
+I'm always eager to learn and explore new technologies to enhance my development skills and keep up with the latest industry trends.
+
+## Contact 📫
+
+You can reach out to me through the following channels:
+
+- LinkedIn: [Paulo Lacerda](https://www.linkedin.com/in/tassolacerda/)
+- GitHub: [p-lacerda](https://github.com/p-lacerda)
+- HackerRank: [placerda](https://www.hackerrank.com/)
+- Stack Overflow: [placerda](https://stackoverflow.com/users/5323419/)
+
+I'm always open to new opportunities, collaborations, or just to have a chat. Don't hesitate to connect with me!
+
+Let's build something incredible together! 🌟
