@@ -11,13 +11,6 @@
   <a href="https://stackoverflow.com/users/5323419/"><img src="https://img.shields.io/badge/-placerda-orange?style=flat&logo=Stack-Overflow&logoColor=white" alt="Stack Overflow"></a>
 </p>
 
-<p align="center">
-  <a href="#about-me">About Me</a> •
-  <a href="#skills">Skills</a> •
-  <a href="#projects">Projects</a> •
-  <a href="#contact">Contact</a>
-</p>
-
 ---
 
 ## About Me 🙋
